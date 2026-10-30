@@ -39,6 +39,15 @@ tommy@github:~$ cat about.json
 - Bringing more ideas to life with AI.
 - Getting better at AI workflows, one experiment at a time.
 
+## `> ./stats --public`
+
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=tommytritran&show_icons=true&hide_rank=true&hide_border=true&disable_animations=true&bg_color=00000000&title_color=8ba6be&icon_color=8ba6be&text_color=c9d1d9" />
+    <img src="https://github-stats-extended.vercel.app/api?username=tommytritran&show_icons=true&hide_rank=true&hide_border=true&disable_animations=true&bg_color=00000000&title_color=476785&icon_color=476785&text_color=30363d" alt="Tommy Tran's public GitHub activity stats" />
+  </picture>
+</a>
+
 <details>
 <summary><code>▶ fun_fact.txt</code></summary>
 
