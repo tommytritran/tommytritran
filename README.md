@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;Tommy+Tran+%7C+Tech+Lead;%24+make+something+fun;vibing+tools+to+life+with+AI" alt="Tommy Tran | Tech lead | Vibing tools to life with AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6485A6&center=true&vCenter=true&width=600&lines=%24+whoami;Tommy+Tran+%7C+Tech+Lead;%24+make+something+fun;vibing+tools+to+life+with+AI" alt="Tommy Tran | Tech lead | Vibing tools to life with AI" />
 
-![Profile views](https://komarev.com/ghpvc/?username=tommytritran&color=00ff9c&style=flat-square&label=VISITORS)
-[![Followers](https://img.shields.io/github/followers/tommytritran?style=flat-square&logo=github&color=0d1117&labelColor=00ff9c)](https://github.com/tommytritran?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=tommytritran&color=476785&style=flat-square&label=VISITORS)
+[![Followers](https://img.shields.io/github/followers/tommytritran?style=flat-square&logo=github&color=476785&labelColor=30363d&logoColor=white)](https://github.com/tommytritran?tab=followers)
 
 </div>
 
-Tech lead with 7 years in software. I use AI to vibe magical little tools to life and build things for fun. If I use something every day, there's a good chance I want to build my own version.
+Tech lead, building software since 2019. I use AI to vibe magical little tools to life and build things for fun. If I use something every day, there's a good chance I want to build my own version.
 
 ```console
 tommy@github:~$ cat about.json
@@ -15,7 +15,7 @@ tommy@github:~$ cat about.json
   "name": "Tommy Tran",
   "handle": "@tommytritran",
   "role": "Tech Lead",
-  "years_in_software": 7,
+  "in_software_since": 2019,
   "building": "custom tools for everyday life",
   "learning": "better AI workflows",
   "motivation": "because building stuff is fun"
@@ -31,7 +31,7 @@ tommy@github:~$ cat about.json
 - **[Zeile](https://github.com/tommytritran/zeile)**: A local VS Code experiment for reviewing TypeScript/JavaScript diffs and exploring source relationships. Discontinued, with the prototype and findings preserved.
 - **[Ziel](https://github.com/tommytritran/ziel)**: A Norwegian public transport planner that turns Entur journeys into colorful, scroll-controlled 3D adventures. Built with React, TypeScript, and Three.js.
 
-[Browse my repositories](https://github.com/tommytritran?tab=repositories) · [Recent activity](https://github.com/tommytritran?tab=overview)
+[Browse my repositories](https://github.com/tommytritran?tab=repositories) 
 
 ## `> cat now.txt`
 
@@ -50,7 +50,7 @@ Why do it manually when I could spend the weekend building a tool for it?
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6485a6,100:30363d&height=100&section=footer" alt="" />
 
 `exit 0`
 
